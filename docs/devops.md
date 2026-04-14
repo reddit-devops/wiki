@@ -87,3 +87,8 @@ the shelf tools, this means that these companies need to support their own tools
 SRE makes sense for them more than for others. Kubernetes is one of such platforms
 that helps achieve what SRE promised.
 
+## Resources
+- https://martinfowler.com/bliki/DevOpsCulture.html
+- https://aws.amazon.com/devops/what-is-devops/
+- https://www.atlassian.com/devops
+- https://github.com/resources/articles/what-is-devops
